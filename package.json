@@ -1,5 +1,5 @@
 {
-  "homepage": "https://mrashid007.github.com/mamundev",
+  "homepage": "https://mrashid007.github.io/mamundev",
   "name": "mrashid",
   "version": "0.1.0",
   "private": true,
@@ -20,6 +20,8 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "prepublish": "npm run build",
     "publish": "gh-pages -d build",
     "build": "react-scripts build",
@@ -45,6 +47,7 @@
     ]
   },
   "devDependencies": {
+    "gh-pages": "^6.1.1",
     "tailwindcss": "^3.4.4"
   }
 }
