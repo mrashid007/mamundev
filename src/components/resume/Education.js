@@ -23,7 +23,7 @@ const Education = () => {
             des="MSc in Computer Science focuses on advanced studies in computing theories, algorithms, and cutting-edge technologie."
           />
           <ResumeCard
-            title="BSc in Computer Science & Engineering"
+            title="BSc in Computer Science <br/>& Engineering"
             subTitle="Dhaka University of Engineering And Technology"
             result="4 Years"
             des="BSc in Computer Science & Engineering offers in-depth knowledge in computing and engineering principles."

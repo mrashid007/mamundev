@@ -15,30 +15,37 @@ const ContactLeft = () => {
         <p className="text-lg font-normal text-gray-400">
           Full Stack Developer (Web and Desktop)
         </p>
-        <p className="text-base text-gray-400 tracking-wide">
-          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Facilis
-          ipsam autem cumque, accusantium dicta odio.
+        <p className="text-base text-gray-400 flex items-center gap-2">
+          Phone: <span className="text-lightText">+88 01714842862</span>
         </p>
         <p className="text-base text-gray-400 flex items-center gap-2">
-          Phone: <span className="text-lightText">+968 97859628</span>
+          Skype: <span className="text-lightText">eng.mamun007</span>
         </p>
         <p className="text-base text-gray-400 flex items-center gap-2">
-          Email: <span className="text-lightText">noor.jsdivs@gmail.com</span>
+          Email: <span className="text-lightText">mamun_cse007@yahoo.com</span>
         </p>
       </div>
       <div className="flex flex-col gap-4">
         <h2 className="text-base uppercase font-titleFont mb-4">Find me in</h2>
         <div className="flex gap-4">
-          <span className="bannerIcon">
-            <FaFacebookF />
-          </span>
-          <span className="bannerIcon">
-            <FaTwitter />
-          </span>
-          <span className="bannerIcon">
-            <FaLinkedinIn />
-          </span>
-        </div>
+            <span className="bannerIcon">
+            <a href="https://www.facebook.com/mamun.duet007/" target="_blank" rel="noopener noreferrer" className="bannerIcon">
+              <FaFacebookF />
+              </a>
+            </span>
+            <span className="bannerIcon">
+              
+              <a href="https://x.com/Engr_Mamun007" target="_blank" rel="noopener noreferrer" className="bannerIcon">
+              <FaTwitter />
+              </a>
+            </span>
+            <span className="bannerIcon">
+              
+              <a href="https://www.linkedin.com/in/mamunduet007/" target="_blank" rel="noopener noreferrer" className="bannerIcon">
+              <FaLinkedinIn />
+              </a>
+            </span>
+          </div>
       </div>
     </div>
   );
