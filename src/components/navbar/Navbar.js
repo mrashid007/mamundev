@@ -10,8 +10,12 @@ const Navbar = () => {
   const [showMenu, setShowMenu]=useState(false)
   return (
     <div className="w-full h-24 sticky top-0 z-50 bg-bodyColor mx-auto flex justify-between items-center font-titleFont border-b-[1px] border-b-gray-600">
-      <div>
-        <img src={logo} alt="logo" className='w-20'/>
+      <div className='float-left text-left justify-start'> 
+        <img src={logo} alt="logo" className='w-20'/> 
+      </div>
+      <div className='float-left text-left justify-start'>
+        Engr. Md. Mamunur Rashid,<br/>
+        Tech Lead | Software Engineer | Java Expert | Solution Architect
       </div>
       <div>
         <ul className="hidden mdl:inline-flex items-center gap-6 lg:gap-10">
