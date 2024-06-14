@@ -1,5 +1,5 @@
-import logo from "./images/mamun.jpg";
-import bannerImg from "./images/bannerImg.png";
+import logo from "./images/mamun_no_BG.png";
+import bannerImg from "./images/mamun_presentation.png";
 import projectOne from "./images/projects/projectOne.jpg";
 import projectTwo from "./images/projects/projectTwo.jpg";
 import projectThree from "./images/projects/projectThree.jpeg";
