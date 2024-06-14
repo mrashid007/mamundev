@@ -3,7 +3,7 @@ import Slider from "react-slick";
 import { RiStarFill } from "react-icons/ri";
 import { HiArrowRight, HiArrowLeft } from "react-icons/hi";
 import Title from '../layouts/Title'
-import { testimonialOne,testimonialTwo, quote } from "../../assets";
+import { testimonialOne,testimonialTwo,testimonialThree, testimonialFour,quote } from "../../assets";
 
 
 function SampleNextArrow(props) {
@@ -108,11 +108,11 @@ const Testimonial = () => {
                 />
                 <div className="w-full flex flex-col justify-end">
                   <p className="text-xs uppercase text-designColor tracking-wide mb-2">
-                    Bound - Trolola
+                  Synspective Inc
                   </p>
-                  <h3 className="text-2xl font-bold">Jone Duone Joe</h3>
+                  <h3 className="text-2xl font-bold">Abdullah Al Maruf</h3>
                   <p className="text-base tracking-wide text-gray-500">
-                    Operation Officer
+                    Engineering Manager, SaaS Platform Architect
                   </p>
                 </div>
               </div>
@@ -122,10 +122,10 @@ const Testimonial = () => {
                   <div className="flex flex-col justify-between lgl:items-center py-6 border-b-2 border-b-gray-900">
                     <div>
                       <h3 className="text-xl lgl:text-2xl font-medium tracking-wide">
-                        Travel Mobile App Design.
+                      Leadership
                       </h3>
                       <p className="text-base text-gray-400 mt-3">
-                        via Upwork - Mar 4, 2015 - Aug 30, 2021 test
+                        via LinkedIn
                       </p>
                     </div>
                     <div className="text-yellow-500 flex gap-1">
@@ -137,11 +137,8 @@ const Testimonial = () => {
                     </div>
                   </div>
                   <p className="text-base font-titleFont text-gray-400 font-medium tracking-wide leading-6">
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. A
-                    dolorum, eos natus ipsum numquam veniam officia
-                    necessitatibus ratione quos debitis exercitationem
-                    repudiandae facilis id neque nihil accusantium perspiciatis
-                    repellat? Iste.
+                    It's my pleasure to work with Mr. Mamunur Rashid at a volunteer organization. He has natural leadership skills. He is passionate about his work. He is caring about his responsibility and surroundings.
+                    I recommend him to any organization for his passion and dedication.
                   </p>
                 </div>
               </div>
@@ -159,11 +156,11 @@ const Testimonial = () => {
                 />
                 <div className="w-full flex flex-col justify-end">
                   <p className="text-xs uppercase text-designColor tracking-wide mb-2">
-                    Bound - Trolola
+                    
                   </p>
                   <h3 className="text-2xl font-bold">Jone Duone Joe</h3>
                   <p className="text-base tracking-wide text-gray-500">
-                    Operation Officer
+                    Project Manager 
                   </p>
                 </div>
               </div>
@@ -173,10 +170,10 @@ const Testimonial = () => {
                   <div className="flex flex-col justify-between lgl:items-center py-6 border-b-2 border-b-gray-900">
                     <div>
                       <h3 className="text-xl lgl:text-2xl font-medium tracking-wide">
-                        Travel Mobile App Design.
+                        Resource Management System
                       </h3>
                       <p className="text-base text-gray-400 mt-3">
-                        via Upwork - Mar 4, 2015 - Aug 30, 2021 test
+                        via Upwork - Mar 4, 2019 - Aug 30, 2020
                       </p>
                     </div>
                     <div className="text-yellow-500 flex gap-1">
@@ -188,33 +185,30 @@ const Testimonial = () => {
                     </div>
                   </div>
                   <p className="text-base font-titleFont text-gray-400 font-medium tracking-wide leading-6">
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. A
-                    dolorum, eos natus ipsum numquam veniam officia
-                    necessitatibus ratione quos debitis exercitationem
-                    repudiandae facilis id neque nihil accusantium perspiciatis
-                    repellat? Iste.
+                    Your performance as a fullstack developer has been exceptional. Your expertise in React and Node.js 
+                    has significantly improved our project's performance. Your quick problem-solving skills and innovative 
+                    solutions have been invaluable
                   </p>
                 </div>
               </div>
             </div>
           </div>
           {/* ================ Slider Three ================== */}
-
           <div className="w-full">
             <div className="w-full h-auto flex flex-col lgl:flex-row justify-between">
               <div className="w-full lgl:w-[35%] h-full bg-gradient-to-r from-[#1e2024] to-[#23272b] p-8 rounded-lg shadow-shadowOne flex flex-col md:flex-row lgl:flex-col gap-8 justify-center md:justify-start lgl:justify-center">
                 <img
                   className="h-72 md:h-32 lgl:h-72 rounded-lg object-cover"
-                  src={testimonialOne}
-                  alt="testimonialOne"
+                  src={testimonialThree}
+                  alt="testimonialTwo"
                 />
                 <div className="w-full flex flex-col justify-end">
                   <p className="text-xs uppercase text-designColor tracking-wide mb-2">
-                    Bound - Trolola
+                    Databiz Software
                   </p>
-                  <h3 className="text-2xl font-bold">Jone Duone Joe</h3>
+                  <h3 className="text-2xl font-bold">Md Asifuzzaman</h3>
                   <p className="text-base tracking-wide text-gray-500">
-                    Operation Officer
+                    Full Stack Developer | REST API | ASP.NET | .NET Core | JavaScript | SQL
                   </p>
                 </div>
               </div>
@@ -224,10 +218,10 @@ const Testimonial = () => {
                   <div className="flex flex-col justify-between lgl:items-center py-6 border-b-2 border-b-gray-900">
                     <div>
                       <h3 className="text-xl lgl:text-2xl font-medium tracking-wide">
-                        Travel Mobile App Design.
+                        Bizness Roots 2.0
                       </h3>
                       <p className="text-base text-gray-400 mt-3">
-                        via Upwork - Mar 4, 2015 - Aug 30, 2021 test
+                        LinkedId - March , 2017 - May , 2018
                       </p>
                     </div>
                     <div className="text-yellow-500 flex gap-1">
@@ -239,11 +233,59 @@ const Testimonial = () => {
                     </div>
                   </div>
                   <p className="text-base font-titleFont text-gray-400 font-medium tracking-wide leading-6">
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. A
-                    dolorum, eos natus ipsum numquam veniam officia
-                    necessitatibus ratione quos debitis exercitationem
-                    repudiandae facilis id neque nihil accusantium perspiciatis
-                    repellat? Iste.
+                  Working with Mamunur Rashid was an exceptional opportunity for me as a developer and as an individual. He is a self-motivated professional with a strong team spirit. I had the privilege of working under him for 1.5 years as a team member, and I can confidently say that he is not only a skilled developer but also a humble, helpful, and exceptional mentor.
+                  <br/>
+                  Mamunur's exceptional leadership and motivational skills not only enhanced my personal and professional development but also greatly improved interdepartmental relations, resulting in better outcomes for the company. I highly recommend Mamunur to any organization seeking a talented and dedicated professional with a wealth of valuable skills.
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div> 
+          
+          {/* ================ Slider Four ================== */}
+
+          <div className="w-full">
+            <div className="w-full h-auto flex flex-col lgl:flex-row justify-between">
+              <div className="w-full lgl:w-[35%] h-full bg-gradient-to-r from-[#1e2024] to-[#23272b] p-8 rounded-lg shadow-shadowOne flex flex-col md:flex-row lgl:flex-col gap-8 justify-center md:justify-start lgl:justify-center">
+                <img
+                  className="h-72 md:h-32 lgl:h-72 rounded-lg object-cover"
+                  src={testimonialFour}
+                  alt="testimonialOne"
+                />
+                <div className="w-full flex flex-col justify-end">
+                  <p className="text-xs uppercase text-designColor tracking-wide mb-2">
+                    NLASO
+                  </p>
+                  <h3 className="text-2xl font-bold">Masuda Yeasmin</h3>
+                  <p className="text-base tracking-wide text-gray-500">
+                    Project Director
+                  </p>
+                </div>
+              </div>
+              <div className="w-full lgl:w-[60%] h-full flex flex-col justify-between">
+                <img className="w-20 lgl:w-32" src={quote} alt="quote" />
+                <div className="w-full h-[70%] py-10 bg-gradient-to-r from-[#1e2024] to-[#23272b] rounded-lg shadow-shadowOne p-4 lgl:p-8 flex flex-col justify-center gap-4 lgl:gap-8">
+                  <div className="flex flex-col justify-between lgl:items-center py-6 border-b-2 border-b-gray-900">
+                    <div>
+                      <h3 className="text-xl lgl:text-2xl font-medium tracking-wide">
+                        Case Management System.
+                      </h3>
+                      <p className="text-base text-gray-400 mt-3">
+                        slack - Sept 4, 2020 - Feb 25, 2022
+                      </p>
+                    </div>
+                    <div className="text-yellow-500 flex gap-1">
+                      <RiStarFill />
+                      <RiStarFill />
+                      <RiStarFill />
+                      <RiStarFill />
+                      <RiStarFill />
+                    </div>
+                  </div>
+                  <p className="text-base font-titleFont text-gray-400 font-medium tracking-wide leading-6">
+                  Your problem-solving skills and efficient debugging have saved us considerable time. Additionally, your clear communication of technical concepts has enhanced our team collaboration
+                  <br/>
+                  your technical skills, dedication, and effective communication have greatly contributed to our success. Thank you for your hard work.
                   </p>
                 </div>
               </div>
