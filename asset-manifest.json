@@ -1,20 +1,22 @@
 {
   "files": {
-    "main.css": "/mamundev/static/css/main.e58f78da.css",
-    "main.js": "/mamundev/static/js/main.594c44fc.js",
+    "main.css": "/mamundev/static/css/main.acb15d29.css",
+    "main.js": "/mamundev/static/js/main.eda1a25d.js",
     "static/media/mamun_no_BG.png": "/mamundev/static/media/mamun_no_BG.e753e0005b8f44cb5de3.png",
     "static/media/mamun_presentation.png": "/mamundev/static/media/mamun_presentation.96ad67dfedaa0dc64b5b.png",
+    "static/media/Maruf.jpg": "/mamundev/static/media/Maruf.832250bb298d38875f69.jpg",
     "static/media/contactImg.png": "/mamundev/static/media/contactImg.8ddfbfd11798f881db54.png",
-    "static/media/testimonialOne.png": "/mamundev/static/media/testimonialOne.c4706b2d1cadcb9f4daf.png",
+    "static/media/masuda.png": "/mamundev/static/media/masuda.7363a43341b251277a35.png",
     "static/media/projectThree.jpeg": "/mamundev/static/media/projectThree.47442baa3158613330ab.jpeg",
-    "static/media/testimonialTwo.png": "/mamundev/static/media/testimonialTwo.c6df2773c486964035d9.png",
+    "static/media/Asif.jpg": "/mamundev/static/media/Asif.cdae349193ab6ac08189.jpg",
+    "static/media/piterloo.png": "/mamundev/static/media/piterloo.c6df2773c486964035d9.png",
     "static/media/projectTwo.jpg": "/mamundev/static/media/projectTwo.1fabe2c8c93632187ee6.jpg",
     "index.html": "/mamundev/index.html",
-    "main.e58f78da.css.map": "/mamundev/static/css/main.e58f78da.css.map",
-    "main.594c44fc.js.map": "/mamundev/static/js/main.594c44fc.js.map"
+    "main.acb15d29.css.map": "/mamundev/static/css/main.acb15d29.css.map",
+    "main.eda1a25d.js.map": "/mamundev/static/js/main.eda1a25d.js.map"
   },
   "entrypoints": [
-    "static/css/main.e58f78da.css",
-    "static/js/main.594c44fc.js"
+    "static/css/main.acb15d29.css",
+    "static/js/main.eda1a25d.js"
   ]
 }
