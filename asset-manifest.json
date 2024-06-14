@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/mamundev/static/css/main.e58f78da.css",
-    "main.js": "/mamundev/static/js/main.361188ba.js",
-    "static/media/mamun.jpg": "/mamundev/static/media/mamun.58947b6c91abd0c663f2.jpg",
-    "static/media/bannerImg.png": "/mamundev/static/media/bannerImg.caa3d5e2872e84d77cf2.png",
+    "main.js": "/mamundev/static/js/main.594c44fc.js",
+    "static/media/mamun_no_BG.png": "/mamundev/static/media/mamun_no_BG.e753e0005b8f44cb5de3.png",
+    "static/media/mamun_presentation.png": "/mamundev/static/media/mamun_presentation.96ad67dfedaa0dc64b5b.png",
     "static/media/contactImg.png": "/mamundev/static/media/contactImg.8ddfbfd11798f881db54.png",
     "static/media/testimonialOne.png": "/mamundev/static/media/testimonialOne.c4706b2d1cadcb9f4daf.png",
     "static/media/projectThree.jpeg": "/mamundev/static/media/projectThree.47442baa3158613330ab.jpeg",
@@ -11,10 +11,10 @@
     "static/media/projectTwo.jpg": "/mamundev/static/media/projectTwo.1fabe2c8c93632187ee6.jpg",
     "index.html": "/mamundev/index.html",
     "main.e58f78da.css.map": "/mamundev/static/css/main.e58f78da.css.map",
-    "main.361188ba.js.map": "/mamundev/static/js/main.361188ba.js.map"
+    "main.594c44fc.js.map": "/mamundev/static/js/main.594c44fc.js.map"
   },
   "entrypoints": [
     "static/css/main.e58f78da.css",
-    "static/js/main.361188ba.js"
+    "static/js/main.594c44fc.js"
   ]
 }
