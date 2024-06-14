@@ -185,7 +185,7 @@ const Testimonial = () => {
                     </div>
                   </div>
                   <p className="text-base font-titleFont text-gray-400 font-medium tracking-wide leading-6">
-                    Your performance as a fullstack developer has been exceptional. Your expertise in React and Node.js 
+                    Your performance as a fullstack developer has been exceptional. Your expertise in Java and Oracle  
                     has significantly improved our project's performance. Your quick problem-solving skills and innovative 
                     solutions have been invaluable
                   </p>
