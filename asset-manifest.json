@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/mamundev/static/css/main.acb15d29.css",
-    "main.js": "/mamundev/static/js/main.ae90dde1.js",
+    "main.css": "/mamundev/static/css/main.39b8454f.css",
+    "main.js": "/mamundev/static/js/main.28d62261.js",
     "static/media/mamun_no_BG.png": "/mamundev/static/media/mamun_no_BG.e753e0005b8f44cb5de3.png",
     "static/media/mamun_presentation.png": "/mamundev/static/media/mamun_presentation.96ad67dfedaa0dc64b5b.png",
     "static/media/Maruf.jpg": "/mamundev/static/media/Maruf.832250bb298d38875f69.jpg",
@@ -12,11 +12,11 @@
     "static/media/piterloo.png": "/mamundev/static/media/piterloo.c6df2773c486964035d9.png",
     "static/media/projectTwo.jpg": "/mamundev/static/media/projectTwo.1fabe2c8c93632187ee6.jpg",
     "index.html": "/mamundev/index.html",
-    "main.acb15d29.css.map": "/mamundev/static/css/main.acb15d29.css.map",
-    "main.ae90dde1.js.map": "/mamundev/static/js/main.ae90dde1.js.map"
+    "main.39b8454f.css.map": "/mamundev/static/css/main.39b8454f.css.map",
+    "main.28d62261.js.map": "/mamundev/static/js/main.28d62261.js.map"
   },
   "entrypoints": [
-    "static/css/main.acb15d29.css",
-    "static/js/main.ae90dde1.js"
+    "static/css/main.39b8454f.css",
+    "static/js/main.28d62261.js"
   ]
 }
